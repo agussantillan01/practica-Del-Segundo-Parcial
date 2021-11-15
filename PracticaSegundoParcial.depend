@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636868563 source:c:\users\1\documents\agus\agus\utn\2021\laboratorio\segunda parte\parcial 2\practicasegundoparcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"funciones.h"
+	"resoluciones.h"
+
+1636913105 c:\users\1\documents\agus\agus\utn\2021\laboratorio\segunda parte\parcial 2\practicasegundoparcial\funciones.h
+
+1636913492 c:\users\1\documents\agus\agus\utn\2021\laboratorio\segunda parte\parcial 2\practicasegundoparcial\resoluciones.h
+
